@@ -1,3 +1,48 @@
+# Prove Learn Laravel 11
+
+this repo is laravel 11 with vue 3 and tailwindcss, and this a sample picture
+
+![image](https://github.com/daffa09/learn-laravel-11/assets/68214221/53f58314-bbf0-42c1-a62f-0c38f533d2a5)
+
+## How to install
+
+dont forget to rename env.example to .env and fill the database configuration, and then create database with same name in config
+
+1. Clone this repo
+
+2. Run
+
+```php
+composer install
+```
+
+3. Run
+
+```php
+npm install
+```
+
+4. run
+
+```php
+php artisan migrate:fresh --seed
+```
+
+5. Run
+
+```php
+npm run dev
+```
+
+6. Run
+
+```php
+php artisan serve
+```
+
+7. Open your browser and go to `http://localhost:8000`
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
