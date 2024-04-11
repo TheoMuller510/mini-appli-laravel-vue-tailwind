@@ -1,7 +1,7 @@
 
 ## Installation
 
-N'oubliez pas de renommer le fichier env.example en .env et remplir la configuration de la base de données, ensuitez créez une base de données du même nom dans votre ligne de commande SQL. 
+N'oubliez pas de renommer le fichier env.example en .env et remplir la configuration de la base de données, ensuitez créez une base de données du même nom dans votre invite de commandes MySQL. 
 
 1. Clonez ce repo
 
