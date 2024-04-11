@@ -1,41 +1,41 @@
 
-## How to install
+## Installation
 
-dont forget to rename env.example to .env and fill the database configuration, and then create database with same name in config
+N'oubliez pas de renommer le fichier env.example en .env et remplir la configuration de la base de données, ensuitez créez une base de données dans votre ligne de commande SQL. 
 
-1. Clone this repo
+1. Clonez ce repo
 
-2. Run
+2. Lancez cette commande dans le terminal
 
 ```php
 composer install
 ```
 
-3. Run
+3. Lancez cette commande dans le terminal
 
 ```php
 npm install
 ```
 
-4. run
+4. Lancez cette commande dans le terminal
 
 ```php
 php artisan migrate:fresh --seed
 ```
 
-5. Run
+5. Lancez cette commande dans le terminal
 
 ```php
 npm run dev
 ```
 
-6. Run
+6. Lancez cette commande dans le terminal
 
 ```php
 php artisan serve
 ```
 
-7. Open your browser and go to `http://localhost:8000`
+7. Ouvrez votre navigateur et allez à l'adresse url `http://localhost:8000`
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
